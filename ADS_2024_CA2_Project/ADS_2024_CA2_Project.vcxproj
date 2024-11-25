@@ -200,6 +200,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\..\..\Users\PRO\Downloads\data.csv" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\images\caseOne.png" />
+    <Image Include="..\images\caseTwo.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
